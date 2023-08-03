@@ -1,6 +1,7 @@
 .vscode/
 
 # Helpers
+test.cpp
 template.cpp
 assignments/webpages
 
