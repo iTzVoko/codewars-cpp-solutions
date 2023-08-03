@@ -6,7 +6,7 @@ A solutions for the [C++ CodeWars Problems List](https://elzero.org/problems-sol
 
 > **Note**:
 > Try to solve these problems before seeing their solutions, by divide and conquer the problem, and searching on Google when you don't know how to do a specific things.
-> 
+>
 > This will make you better at thinking about how to solve a real problem when it arrives to you.
 
 ---
@@ -15,7 +15,7 @@ A solutions for the [C++ CodeWars Problems List](https://elzero.org/problems-sol
 
 In the level one, **each video** contains **3** CodeWars problems to solve.
 
-- [x] Video 1
+- [ ] Video 1
   - Progress: (2/3)
 
 ## Special Thanks
