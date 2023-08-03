@@ -6,6 +6,7 @@
  */
 int simpleMultiplication(int a)
 {
-    // Your code
-    return (a % 2 == 0 ? a * 8 : a * 9);
+    return a * (8 + a % 2);
+    // return a * (8 + (a & 1));
+    // return a * (8 + (0xFFFFFFFF == (a | 0xFFFFFFFE)));
 }
