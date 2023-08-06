@@ -21,7 +21,8 @@ In the level one, **each video** contains **3** CodeWars problems to solve.
 
 - [x] Video 1 - Introduction
 - [x] Video 2
-- [ ] Video 3
+- [x] Video 3
+- [ ] Video 4
   - Progress: (0/3)
 
 ## Special Thanks
