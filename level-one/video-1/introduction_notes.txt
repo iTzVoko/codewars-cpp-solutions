@@ -1,0 +1,7 @@
+[1] Register
+[2] Choose Language
+[3] Level
+[4] Daily Solve
+[5] Stop Video And Try
+[6] Use Your IDE
+[7] Watch Other Solutions And Learn
