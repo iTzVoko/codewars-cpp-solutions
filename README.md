@@ -19,8 +19,10 @@ A solutions for the [C++ CodeWars Problems List](https://elzero.org/problems-sol
 
 In the level one, **each video** contains **3** CodeWars problems to solve.
 
-- [ ] Video 1
-  - Progress: (2/3)
+- [x] Video 1 - Introduction
+- [x] Video 2
+- [ ] Video 3
+  - Progress: (0/3)
 
 ## Special Thanks
 
