@@ -3,6 +3,7 @@
  * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
+ * Note: "product" is the result of multiplication.
  */
 #include <vector>
 
