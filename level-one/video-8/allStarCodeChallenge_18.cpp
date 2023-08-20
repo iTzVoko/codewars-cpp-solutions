@@ -3,6 +3,7 @@
  * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
+ * Note: We can do the same using std::count function from algorithm the header.
  */
 #include <string>
 
