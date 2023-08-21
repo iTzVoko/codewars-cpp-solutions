@@ -17,7 +17,7 @@ A solutions for the [C++ CodeWars Problems List](https://elzero.org/problems-sol
 
 ## ✅ Progress
 
-In the level one, **each video** contains **3** CodeWars problems to solve.
+In the level one, there is **35 videos**, **each video** contains **3** CodeWars problems to solve.
 
 - [x] Video 1 - Introduction
 - [x] Video 2
