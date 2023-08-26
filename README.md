@@ -28,7 +28,8 @@ In the level one, there is **35 videos**, **each video** contains **3** CodeWars
 - [x] Video 7
 - [x] Video 8
 - [x] Video 9
-- [ ] Video 10
+- [x] Video 10
+- [ ] Video 11
   - Progress: (0/3)
 
 ## Special Thanks
