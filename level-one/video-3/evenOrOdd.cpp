@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 #include <string>
 
 std::string even_or_odd(int number)

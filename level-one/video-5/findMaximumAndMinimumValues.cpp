@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 #include <vector>
 
 using namespace std;

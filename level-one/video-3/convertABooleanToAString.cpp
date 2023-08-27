@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 #include <string>
 
 std::string boolean_to_string(bool b)

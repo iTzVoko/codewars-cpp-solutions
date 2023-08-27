@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 #include <string>
 
 std::string removeExclamationMarks(std::string str)

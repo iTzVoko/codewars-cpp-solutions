@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 #include <string>
 
 std::string to_alternating_case(const std::string &str)

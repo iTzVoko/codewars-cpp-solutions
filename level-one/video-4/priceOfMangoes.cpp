@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 int mango(int quantity, int price)
 {
     int freeMangoesCount = quantity / 3;

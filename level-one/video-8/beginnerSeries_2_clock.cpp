@@ -4,6 +4,7 @@
  *
  * Solved by: @iTzVoko
  */
+
 int past(int h, int m, int s)
 {
 
