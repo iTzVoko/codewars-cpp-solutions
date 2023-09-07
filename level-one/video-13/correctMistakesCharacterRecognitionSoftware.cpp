@@ -11,12 +11,18 @@ std::string correct(std::string str)
 {
 	for (char &currentChar : str)
 	{
-		if (currentChar == '5')
+		switch (currentChar)
+		{
+		case '5':
 			currentChar = 'S';
-		else if (currentChar == '0')
+			break;
+		case '0':
 			currentChar = 'O';
-		else if (currentChar == '1')
+			break;
+		case '1':
 			currentChar = 'I';
+			break;
+		}
 	}
 
 	return str;
